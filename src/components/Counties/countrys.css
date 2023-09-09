@@ -1,0 +1,10 @@
+.country-countianer{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap: 10px;
+}
+.flag-container img{
+    margin-right: 20px;
+    width: 70px;
+    width: 30px;
+}
